@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/Inter-Regular.ttf');
+  src: local('Inter Bold Italic'), local('Inter-BoldItalic'),
+      url('../assets/fonts/Inter-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../assets/fonts/Roboto-Regular.ttf');
+  src: local('Roboto'), local('Roboto-Regular'),
+      url('../assets/fonts/Roboto-Regular.ttf') format('truetype');
+}

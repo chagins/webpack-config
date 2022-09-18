@@ -1,3 +1,7 @@
+@import url('./styles/fonts.css');
+
 body {
   background-color: cornsilk;
+  font-family: 'Roboto', sans-serif;
+  background-image: url("./assets/img/poster.jpg");
 }
